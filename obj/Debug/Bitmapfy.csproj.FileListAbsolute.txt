@@ -1,0 +1,10 @@
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\bin\Debug\Bitmapfy.exe.config
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\bin\Debug\Bitmapfy.exe
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\bin\Debug\Bitmapfy.pdb
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.Form1.resources
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.Properties.Resources.resources
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.exe
+C:\Users\Pedro\source\repos\Bitmapfy\Bitmapfy\obj\Debug\Bitmapfy.pdb
